@@ -1,5 +1,5 @@
-### Frog000 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-### I am Gangfunction,
+### Lee GangJu <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### I am Gangfunction, Recently i started to learn about Programming.
 
 ### About me
 
