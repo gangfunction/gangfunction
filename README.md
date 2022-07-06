@@ -9,7 +9,7 @@
 :pencil: Sometimes I write articles on my blog <br/>
 
 ## Interest
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> 
+<img src=![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)/> 
 
 ## Latest Projects
 
