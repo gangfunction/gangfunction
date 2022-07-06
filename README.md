@@ -6,19 +6,18 @@
 
 :anguished:
 
-:pencil: Sometimes I write articles on my blog <br/>
+:pencil: Sometimes I write algorithm articles on my blog <br/>
+### Mainly Focused Languages and Tools
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-## Interest
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 
 ## Latest Projects
 
-## Languages and Tools
-<p>
-<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
-</p>
+## Interests
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
+### Tools
 
 ### Connect with me
 
