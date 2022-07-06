@@ -16,8 +16,6 @@
 ## Languages and Tools
 <p>
 <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> 
-<img src="https://img.shields.io/badge/JAVA?style=flat-square&logo=JAVA&logoColor=white"/>
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
 </p>
 
