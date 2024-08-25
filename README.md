@@ -9,11 +9,9 @@
 :anguished:
 
  <br/>
-Please get Refer from my below portfolio
 
-[Portfolio]( https://gangfunction.oopy.io)
+[portfolio]( https://gangfunction.oopy.io)
 <br/>
-2024-01-01~ 2024-02-14: 기존 CatchV 프로젝트를 개선했습니다.
 
 
 ### Mainly Focused Language and Tool
@@ -33,7 +31,10 @@ Please get Refer from my below portfolio
 
 
 ## Interests
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white" alt="">
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+<img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=JUnit5&logoColor=white">
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
 
 ## et cetera
 <a href="https://hhpluscertificateofcompletion.oopy.io/">
