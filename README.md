@@ -3,13 +3,11 @@
 
 <br/>
 
-
 ### About me
 
 :anguished:
 
- <br/>
-
+<br/>
 [portfolio]( https://gangfunction.oopy.io)
 <br/>
 
@@ -24,11 +22,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gangfunction&show_icons=true&theme=tokyonight)
 <br/>
-
-## Latest Projects
-<a href="https://github.com/gangfunction/catchvbackend">Catch V - Backend  (백엔드) </a>
-<br/>
-<a href="https://github.com/gangfunction/catchvfrontnext">Catch V - Frontend (프론트엔드) </a>
 
 
 ## Interests
